@@ -16,4 +16,4 @@ Welcome to the **CodeWeb Landing Page** repository! This project is a modern, re
 - **JavaScript**: For dynamic interactions.
 
 ## Live Preview  
-Check out the live version of the landing page: [CodeWeb Landing Page]([https://your-username.github.io/codeweb-landing-page/](https://idyllic-parfait-a2d4f6.netlify.app))  
+Check out the live version of the landing page: [CodeWeb Landing Page]((https://idyllic-parfait-a2d4f6.netlify.app))  
