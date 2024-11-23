@@ -1,0 +1,42 @@
+.projects {
+    padding: 10rem 0 6rem;
+}
+
+.projects__title {
+    text-align: center;
+    font-size: 2.5rem;
+    border-bottom: 3px solid var(--secondary-color);
+    width: fit-content;
+    margin-inline: auto;
+    margin-bottom: 4rem;
+}
+
+.projects__container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+    gap: 4rem;
+}
+
+.projects__container div {
+    filter: saturate(0);
+    transition: var(--transition);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.projects__container div:hover {
+    filter: saturate(1);
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+@media screen and (max-width: 600px) {
+    .projects__container {
+        gap: 1.6rem;
+    }
+
+    .projects__container div:hover {
+        transform: unset;
+        box-shadow: 1rem .5rem .5rem rgba(0, 0, 0, 0.2);
+    }
+}
