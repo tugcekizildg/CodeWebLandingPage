@@ -17,4 +17,6 @@ Welcome to the **CodeWeb Landing Page** repository! This project is a modern, re
 
 ## Live Preview  
 Check out the live version of the landing page: [CodeWeb Landing Page](https://idyllic-parfait-a2d4f6.netlify.app)
--Here is the Desktop Preview: ![DesktopPreview](https://github.com/user-attachments/assets/c6fe5ffa-c48e-450d-901c-89210e256f6d)
+- Here is the Desktop Preview: ![DesktopPreview](https://github.com/user-attachments/assets/c6fe5ffa-c48e-450d-901c-89210e256f6d)
+- Mobile Preview: 
+![MobilePreview](https://github.com/user-attachments/assets/c6cb1a0c-cbc1-4668-95fc-51ef08a758ff)
